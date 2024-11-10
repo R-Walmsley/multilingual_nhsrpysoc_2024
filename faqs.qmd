@@ -1,0 +1,17 @@
+---
+format: html
+---
+
+:::{.content-hidden unless-profile="english"}
+**What is this website?**
+
+It's an example of a Quarto website with two languages.  
+
+:::
+
+:::{.content-hidden unless-profile="french"}
+**Qu'est-ce que ce site ?**
+
+C'est un exemple d'un site Quarto en deux langues.
+
+:::

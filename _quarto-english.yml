@@ -1,0 +1,21 @@
+project:
+  title: "Example multilingual site"
+  output-dir: ./_site/en
+
+website:
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: faqs.qmd
+        text: FAQs
+  body-header: |
+    <button onclick="window.location = location.href.replace('/en/','/fr/');" class="btn"> Français </button>
+
+lang: en
+
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true

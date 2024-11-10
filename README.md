@@ -1,0 +1,1 @@
+For more information on the construction of this example, see: https://marioangst.com/en/blog/posts/multi-language-quarto

@@ -1,0 +1,15 @@
+---
+format: html
+---
+
+:::{.content-hidden unless-profile="english"}
+This is an example of a site with two different languages, based on the guide at: https://marioangst.com/en/blog/posts/multi-language-quarto/. 
+
+This is not the only way to build a multilingual Quarto site. There is also now babelquarto: https://docs.ropensci.org/babelquarto/. And you can also simply implement it through the sidebar. 
+:::
+
+:::{.content-hidden unless-profile="french"}
+Ceci est un site qui utilise deux langues différentes. L'implémentation suit le guide disponible sur : https://marioangst.com/en/blog/posts/multi-lingual-quarto/. 
+
+Ce n'est pas la seule façon de créer un site Quarto multilingue. Il existe aussi babelquarto : https://docs.ropensci.org/babelquarto/. Et vous pouvez aussi simplement l'implémenter via la barre latérale.
+:::

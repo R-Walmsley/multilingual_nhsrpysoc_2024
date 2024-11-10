@@ -1,0 +1,9 @@
+project:
+  type: website
+
+profile:
+  default: english
+  group: [english, french]
+
+execute:
+  freeze: auto
